@@ -23,8 +23,10 @@ Lately, I've been diving into the world of `CI/CD` processes. I've been busy lea
 
 I am very passionate and resilient about what I enjoy doing. 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Getlar)](https://git.io/streak-stats)
-[![Getlar's GitHub stats](https://github-readme-stats.vercel.app/api?username=getlar)](https://github.com/getlar/github-readme-stats)
+<p align="center">
+  <img width="51.7%"  src="https://github-readme-stats.vercel.app/api?username=getlar&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
+  <img width="46.3%"  src="https://github-readme-streak-stats.herokuapp.com?user=Getlar&hide_border=true" />
+</p>
 
 -----
 
