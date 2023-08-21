@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 I am a second-year student pursuing my master's in Artificial Intelligence. I have 1-2 years of experience working with `Deep Neural Networks`, `Machine Learning Models`, `Graph Embedding Algorithms`, `Graph Convolutional Networks`, `Reinforcement Learning Models`, `GANs`, and `MLOps`.
 
 I'm an enthusiastic participant in online hackathons and Kaggle competitions, always on the lookout for ways to challenge and enhance my skills. My current research revolves around Automated Game Testing and Validation, where I'm exploring the fascinating possibilities of `Reinforcement Learning (RL)` and `Imitation Learning` techniques.
@@ -24,7 +25,7 @@ Lately, I've been diving into the world of `CI/CD` processes. I've been busy lea
 I am very passionate and resilient about what I enjoy doing. 
 
 <p align="center">
-  <img width="51.7%"  src="https://github-readme-stats.vercel.app/api?username=getlar&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
+  <img width="51.7%"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=getlar&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
   <img width="46.3%"  src="https://github-readme-streak-stats.herokuapp.com?user=Getlar&hide_border=true" />
 </p>
 
