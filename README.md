@@ -16,13 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
-I am a second-year student pursuing my master's in Artificial Intelligence. I have 1-2 years of experience working with `Deep Neural Networks`, `Machine Learning Models`, `Graph Embedding Algorithms`, `Graph Convolutional Networks`, `Reinforcement Learning Models`, `GANs`, and `MLOps`.
+I am a PhD student in Artificial Intelligence with three years of experience working with `Deep Neural Networks`, `Machine Learning Models`, `Graph Embedding Algorithms`, `Graph Convolutional Networks`, `Reinforcement Learning Models`, `Large Language Models` (LLMs), and `MLOps`.
 
-I'm an enthusiastic participant in online hackathons and Kaggle competitions, always on the lookout for ways to challenge and enhance my skills. My current research revolves around Automated Game Testing and Validation, where I'm exploring the fascinating possibilities of `Reinforcement Learning (RL)` and `Imitation Learning` techniques.
+I regularly participate in online hackathons and `Kaggle competitions`. My current research focuses on scalability in `Multi-Agent Reinforcement Learning (MARL)`, as well as `Machine Unlearning` and its applicability in `Reinforcement Learning` (RL), `Natural Language Processing` (NLP), and `Complex Systems`. I am passionate and resilient about the work I do.
 
-Lately, I've been diving into the world of `CI/CD` processes. I've been busy learning the ropes of `GitHub Actions`, `KubeFlow`, `Docker`, `Kubernetes`, and also getting familiarized with Cloud Technologies like `AWS Glue`, `Amazon SageMaker`, `GCloud AutoML`, and `GCloud DataStore`. Looking ahead, I'm excited about my upcoming journey into a **PhD program focusing on MLOps**. My goal is to become an expert in transforming complex data challenges into practical, deployable, and trackable software solutions that have real-world impact.
-
-I am very passionate and resilient about what I enjoy doing. 
+Lately, I've been busy learning the ropes of `GitHub Actions`, `KubeFlow`, `Docker`, `Kubernetes`, and also getting familiarized with Cloud Technologies like `AWS Glue`, `Amazon SageMaker`, `GCloud AutoML`, and `GCloud DataStore`. Looking ahead, I'm excited about completing my **PhD program**. My goal is to become an expert in transforming complex data challenges into practical, deployable, and impactful software solutions for real-world applications.
 
 <p align="center">
   <img width="51.7%"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=getlar&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
